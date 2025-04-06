@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alper/Desktop/UE5/Duel/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Maps/MAP_Debug.umap",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/orig.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/orig_Sprite.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_Idle_Sprite_1.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_Death.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_Death_Sprite_1.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_Idle.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/ATTACK_1.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/ATTACK_1_Sprite_5.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/ATTACK_1_Sprite_6.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/HURT.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/HURT_Sprite_1.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/IDLE.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/IDLE_Sprite_1.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/BP_Character.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_6.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_7.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_9.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_10.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_11.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/BP_Player.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/BP_NPC.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/GM_Duel.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/enums/E_Phase.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/Exlamation.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/BP_Exlamation.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/T_Exclamation.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/T_Cross.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Input/Actions/IA_Attack.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Input/IMC_Duel.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/T_Cross_Sprite.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/T_Exclamation_Sprite.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_2.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_3.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/BluePrints/BP_Characther.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_0.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_1.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_4.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_5.uasset",
+				"C:/Users/alper/Desktop/UE5/Duel/Content/Assets/_AttackCombo2hit_Sprite_8.uasset"
+			]
+		}
+	]
+}
